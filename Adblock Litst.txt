@@ -7,3 +7,6 @@ noai.duckduckgo.com##.L6fj2A3X2mfJl5kE8caF
 noai.duckduckgo.com##.mDfTLfECeDUwedENpz0Z.bYzmzE1mNswz15hu88gN.s_aX02AKO_sKezlF_w3n
 noai.duckduckgo.com##.set-browser-promo-mobile
 noai.duckduckgo.com##.Mgiw3_rUNBUltXMI6rPy.L1AUYRv0DJF7e5SBj7Hq.Tgljv99i6il_p6kPM_n9
+
+# SpeedTest Endscreen Dialog
+www.speedtest.net##.MuiDialogContent-root.css-1nbx5hx
