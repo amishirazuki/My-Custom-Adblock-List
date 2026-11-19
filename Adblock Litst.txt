@@ -18,3 +18,5 @@ www.animevietsub.*##.ads-textlink
 www.animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/niNvqW87lyRKXDaWknU-K7iiTx6_sAPg_cyDtbJhk_RhXK1hFYPGjIsdM9F6DDyqsDD9IdPZv3hKHkkM2lNZGMFaDdvll8bV6B0n3SFONcjrGY9YY1gM6KQd28Zl\=s0"]
 # AnimeVietSub Annoyance
 www.animevietsub.*##.tag-list-main > ul
+www.animevietsub.*##div.WebDescription:nth-of-type(2) > p
+www.animevietsub.*##.Footer > div.Container:nth-of-type(1) > .MnBrCn.BgA > .MnBr.EcBgA > .Container
