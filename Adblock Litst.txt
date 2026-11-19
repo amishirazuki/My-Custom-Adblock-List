@@ -13,11 +13,11 @@ noai.duckduckgo.com##.Mgiw3_rUNBUltXMI6rPy.L1AUYRv0DJF7e5SBj7Hq.Tgljv99i6il_p6kP
 www.speedtest.net##.MuiDialogContent-root.css-1nbx5hx
 
 # AnimeVietSub Bottom Link Ad
-www.animevietsub.*##.ads-textlink
+||animevietsub.*^##.ads-textlink
 # AnimeVietSub Banner
 ||animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/niNvqW87lyRKXDaWknU-K7iiTx6_sAPg_cyDtbJhk_RhXK1hFYPGjIsdM9F6DDyqsDD9IdPZv3hKHkkM2lNZGMFaDdvll8bV6B0n3SFONcjrGY9YY1gM6KQd28Zl\=s0"]
 # AnimeVietSub Annoyance
-||animevietsub.*##.tag-list-main > ul
-||animevietsub.*##div.WebDescription:nth-of-type(2) > p
-||animevietsub.*##.Footer > div.Container:nth-of-type(1) > .MnBrCn.BgA > .MnBr.EcBgA > .Container
-||animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/igTXd7pqBPd6ThGRJ2yGjk13cHF_7KLc6s5HIwVst9q8FwCNqXI58ILhXqDDfSB9vSrET52nV7o_e1ABei3eWMUCGWHQ8uE-d98MA0fOML4fXo0K-uKwK6xNrJE\=s0"]
+||animevietsub.*^##.tag-list-main > ul
+||animevietsub.*^##div.WebDescription:nth-of-type(2) > p
+||animevietsub.*^##.Footer > div.Container:nth-of-type(1) > .MnBrCn.BgA > .MnBr.EcBgA > .Container
+||animevietsub.*^##[src*="https\:\/\/lh6\.googleusercontent\.com\/igTXd7pqBPd6ThGRJ2yGjk13cHF_7KLc6s5HIwVst9q8FwCNqXI58ILhXqDDfSB9vSrET52nV7o_e1ABei3eWMUCGWHQ8uE-d98MA0fOML4fXo0K-uKwK6xNrJE\=s0"]
