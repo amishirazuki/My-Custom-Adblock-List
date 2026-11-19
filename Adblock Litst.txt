@@ -25,3 +25,4 @@ animevietsub.*,www.animevietsub.*###recentCommentsSection
 animevietsub.*,www.animevietsub.*##.Footer
 animevietsub.*,www.animevietsub.*##.announcement
 animevietsub.*,www.animevietsub.*##section.Wdgt:nth-of-type(2)
+animevietsub.*,www.animevietsub.*###mv-keywords
