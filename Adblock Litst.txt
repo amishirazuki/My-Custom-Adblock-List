@@ -22,3 +22,6 @@ animevietsub.*,www.animevietsub.*##div.WebDescription:nth-of-type(2) > p
 animevietsub.*,www.animevietsub.*##.Footer > div.Container:nth-of-type(1) > .MnBrCn.BgA > .MnBr.EcBgA > .Container
 animevietsub.*,www.animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/igTXd7pqBPd6ThGRJ2yGjk13cHF_7KLc6s5HIwVst9q8FwCNqXI58ILhXqDDfSB9vSrET52nV7o_e1ABei3eWMUCGWHQ8uE-d98MA0fOML4fXo0K-uKwK6xNrJE\=s0"]
 animevietsub.*,www.animevietsub.*###recentCommentsSection
+animevietsub.*,www.animevietsub.*##.Footer
+animevietsub.*,www.animevietsub.*##.announcement
+animevietsub.*,www.animevietsub.*##section.Wdgt:nth-of-type(2)
