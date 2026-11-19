@@ -10,3 +10,6 @@ noai.duckduckgo.com##.Mgiw3_rUNBUltXMI6rPy.L1AUYRv0DJF7e5SBj7Hq.Tgljv99i6il_p6kP
 
 # SpeedTest Endscreen Dialog
 www.speedtest.net##.MuiDialogContent-root.css-1nbx5hx
+
+# AnimeVietSub Bottom Link Ad
+www.animevietsub.*##.ads-textlink
