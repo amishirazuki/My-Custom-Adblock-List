@@ -20,3 +20,4 @@ www.animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/niNvqW87lyRKX
 www.animevietsub.*##.tag-list-main > ul
 www.animevietsub.*##div.WebDescription:nth-of-type(2) > p
 www.animevietsub.*##.Footer > div.Container:nth-of-type(1) > .MnBrCn.BgA > .MnBr.EcBgA > .Container
+www.animevietsub.*##[src*="https\:\/\/lh6\.googleusercontent\.com\/igTXd7pqBPd6ThGRJ2yGjk13cHF_7KLc6s5HIwVst9q8FwCNqXI58ILhXqDDfSB9vSrET52nV7o_e1ABei3eWMUCGWHQ8uE-d98MA0fOML4fXo0K-uKwK6xNrJE\=s0"]
