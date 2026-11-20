@@ -26,3 +26,8 @@ animevietsub.*,www.animevietsub.*##.Footer
 animevietsub.*,www.animevietsub.*##.announcement
 animevietsub.*,www.animevietsub.*##section.Wdgt:nth-of-type(2)
 animevietsub.*,www.animevietsub.*###mv-keywords
+animevietsub.*,www.animevietsub.*##.schedule-enhanced
+animevietsub.*,www.animevietsub.*##.alert.alert-info
+animevietsub.*,www.animevietsub.*##.notification-enhanced
+animevietsub.*,www.animevietsub.*##.modern-anime-container
+animevietsub.*,www.animevietsub.*###links-backup
