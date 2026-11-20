@@ -1,7 +1,7 @@
 [Adblock List]
 ! Title: amishirazuki's Blocklist
 ! Homepage: https://github.com/amishirazuki/My-Custom-Adblock-List
-! Expires: 30 minutes
+! Expires: 1 hour
 
 # DuckDuckGo Annoyance
 noai.duckduckgo.com##.L6fj2A3X2mfJl5kE8caF
