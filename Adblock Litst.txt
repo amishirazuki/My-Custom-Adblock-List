@@ -31,3 +31,6 @@ animevietsub.*,www.animevietsub.*##.alert.alert-info
 animevietsub.*,www.animevietsub.*##.notification-enhanced
 animevietsub.*,www.animevietsub.*##.modern-anime-container
 animevietsub.*,www.animevietsub.*###links-backup
+
+# Mangadex Ads
+.block.size-full.rounded-md.object-contain
