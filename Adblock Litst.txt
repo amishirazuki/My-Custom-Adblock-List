@@ -34,4 +34,4 @@ animevietsub.*,www.animevietsub.*###links-backup
 animevietsub.*,www.animevietsub.*###theme-toggle
 
 # Mangadex Ads
-.block.size-full.rounded-md.object-contain
+mangadex.org##.flex.justify-center.mt-4 > .relative.w-full
